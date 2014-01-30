@@ -136,7 +136,12 @@ blurred elements over other elements
 
 ###UI Elements - Tabs
 [Tabulous.js](http://git.aaronlumsden.com/tabulous.js): A fantastic jQuery plugin to help you create tabs, easily  
-[NanoTabs](www.sunsean.com/nanotabs/): That's right - beautiful tabs in a nano sized plugin. 
+[NanoTabs](www.sunsean.com/nanotabs/): That's right - beautiful tabs in a nano sized plugin.
+
 
 ###UI Elements - WYSIWYG
 [SirTrevor](http://madebymany.github.io/sir-trevor-js/): A beautiful rich content editor reimagined for web.
+
+
+###UI Elements - Drag Drop Library
+[Dropzone.js](https://raw.github.com/enyo/dropzone/master/downloads/dropzone.js): Dropzone.js is a light weight JavaScript library that turns an HTML element into a dropzone. This means that a user can drag and drop a file onto it, and the file gets uploaded to the server via AJAX. Dropzone.js is easily usable and customizable.
